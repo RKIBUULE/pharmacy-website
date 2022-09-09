@@ -1,0 +1,12 @@
+*{
+    border:border-box;
+    
+}
+.nav__container{
+    display: flex;
+    justify-content: center;
+}
+.nav{
+    display: flex;
+    
+}
